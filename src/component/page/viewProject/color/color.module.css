@@ -1,3 +1,0 @@
-.contents ul {display: flex; gap: 0 24px;}
-.color {width: 12.6rem; height: 14rem; display: flex; align-items: flex-end; border-radius: 2rem; overflow: hidden;}
-.colorName {width: 100%; padding: .9rem 0; background-color: var(--white); text-align: center; color: var(--bg); letter-spacing: 0;}

@@ -1,2 +1,0 @@
-.text {position: relative; margin-left: 1.8rem; margin-right: 14rem; font-family: 'vitro'; font-size: 2.2rem; color: var(--text); letter-spacing: 0;}
-.text::before {content: ""; width: .4rem; height: 2.2rem; position: absolute; top: -.2rem; left: -1.8rem; background-color: var(--point-color);}

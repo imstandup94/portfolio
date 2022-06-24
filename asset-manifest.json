@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.81a8a28a.css",
+    "main.js": "/portfolio/static/js/main.259a0c76.js",
+    "static/js/787.d509ac01.chunk.js": "/portfolio/static/js/787.d509ac01.chunk.js",
+    "static/media/vitro.eot": "/portfolio/static/media/vitro.d7d1506dcca819ee4955.eot",
+    "static/media/vitro.ttf": "/portfolio/static/media/vitro.82a2b0ef9f7a3886a8cd.ttf",
+    "static/media/diet.png": "/portfolio/static/media/diet.ddda7ad6655adaa7202d.png",
+    "static/media/vitro.woff": "/portfolio/static/media/vitro.c1c643f708be11cc4e4b.woff",
+    "static/media/prevPofol.jpg": "/portfolio/static/media/prevPofol.553c34cf5de93d288d20.jpg",
+    "static/media/focus8.jpg": "/portfolio/static/media/focus8.2bab09fd561cebd2c618.jpg",
+    "static/media/cbt.png": "/portfolio/static/media/cbt.480c8b1cce374155311c.png",
+    "static/media/star.png": "/portfolio/static/media/star.06ca669b46e10923384d.png",
+    "index.html": "/portfolio/index.html",
+    "main.81a8a28a.css.map": "/portfolio/static/css/main.81a8a28a.css.map",
+    "main.259a0c76.js.map": "/portfolio/static/js/main.259a0c76.js.map",
+    "787.d509ac01.chunk.js.map": "/portfolio/static/js/787.d509ac01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a8a28a.css",
+    "static/js/main.259a0c76.js"
+  ]
+}
