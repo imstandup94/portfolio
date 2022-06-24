@@ -1,0 +1,6 @@
+.box {width: 100%; display: flex; justify-content: space-between; align-items: flex-start; padding: 0 !important;}
+
+.contents ul {display: flex; gap: 0 60px;}
+.contents li {width: 14rem; height: 14rem; position: relative; text-align: center; line-height: 14rem; border-radius: 50%; font-size: 2rem; font-weight: var(--fw-bold); color: var(--text); border: 2px solid var(--text-005);}
+.contents li::before, .contents li::after {content: ""; position: absolute;}
+.contents p {margin-top: 2.8rem; font-size: var(--fs-18); line-height: 1.5; color: var(--text);}

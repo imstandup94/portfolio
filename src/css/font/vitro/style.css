@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'vitro';
+    src: url('./vitro.eot') format('embedded-opentype'),
+    url('./vitro.woff') format('woff'),
+    url('./vitro.ttf') format('truetype');
+}

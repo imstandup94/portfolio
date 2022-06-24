@@ -1,0 +1,20 @@
+.projectBox {flex: 1 1; display: flex; height: 64vh; transition: var(--transition);}
+ul.projectBox:hover {transform: scale(1.05);}
+.infoContainer {width: 52.84%; position: relative; padding: 3.2em 4.2em;}
+.infoContainer .info {display: flex; justify-content: space-between; align-items: start; margin-bottom: 3em;}
+.infoContainer .name {display: inline-block; padding: 0.4em 0.7em; white-space: nowrap; font-size: var(--fs-15); font-weight: var(--fw-bold); color: var(--sub-color-030); border: 2px solid var(--sub-color-020); border-radius: 1.2rem;}
+.infoContainer .explain {flex: 1 1 auto; margin-left: 1em; color: var(--text); font-size: var(--fs-16); font-weight: var(--fw-light); line-height: 1.5;}
+.infoContainer .part, .infoContainer .useSkill {align-items: center;}
+
+.imgContainer {width: 47.16%; border-radius: 2rem; overflow: auto;}
+.imgContainer img {width: 100%;}
+
+@media screen and (max-width: 1280px) {
+    .infoContainer {width: 100%;}
+    .infoContainer p {white-space: normal;}
+    .infoContainer .name {white-space: nowrap;}
+    .imgContainer {display: none;}
+}
+
+@media screen and (max-width: 1000px) {
+}

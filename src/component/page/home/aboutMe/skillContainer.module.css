@@ -1,0 +1,15 @@
+.skill {width: 8.3%; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.4em 0 0.8em; font-size: var(--fs-17); color: var(--text); transition: var(--transition);}
+
+.icon {width: 6.2rem; height: 6.2rem; border-radius: 1rem; background-size: 80%; background-repeat: no-repeat; background-position: center;}
+
+.skill:nth-child(1) .icon {background-image: url(../../../../img/skill01.png);}
+.skill:nth-child(2) .icon {background-image: url(../../../../img/skill02.png);}
+.skill:nth-child(3) .icon {background-image: url(../../../../img/skill03.png);}
+.skill:nth-child(4) .icon {background-image: url(../../../../img/skill04.png);}
+.skill:nth-child(5) .icon {background-image: url(../../../../img/skill05.png);}
+.skill:nth-child(6) .icon {background-image: url(../../../../img/skill06.png);}
+.skill:nth-child(7) .icon {background-image: url(../../../../img/skill07.png);}
+.skill:nth-child(8) .icon {background-image: url(../../../../img/skill08.png);}
+.skill:nth-child(9) .icon {background-image: url(../../../../img/skill09.png);}
+
+.text {letter-spacing: 0;}

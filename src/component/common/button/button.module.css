@@ -1,0 +1,8 @@
+.btnWrap {display: flex; justify-content: center; position: relative;}
+button.btn {width: 26rem; height: 6rem; position: relative; padding: 0; font-size: var(--fs-18); font-weight: var(--fw-bold); color: var(--point-color); background-color: transparent; border: 2px solid var(--point-color); border-radius: 2rem; transition: var(--transition);}
+
+/*.svgWrap {width: 100%; height: 100%; position: absolute; top: 0; left: 0; border-radius: 2rem; overflow: hidden;}
+.svgWrap*/ 
+button.btn span {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+button.btn svg {display: none; width: 100%; height: 100%; cursor: pointer; border-radius: 2rem; transition: 3s ease-in-out 0s; transition-delay: 0; stroke-dasharray: 10 150; stroke-dashoffset: 10;}
+button.btn:hover svg, button.btn:active svg {stroke-dashoffset: -150;}
